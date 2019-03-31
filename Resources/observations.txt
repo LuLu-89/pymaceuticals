@@ -1,0 +1,4 @@
+Observable trends on pharmaceutical data:
+1. Over a period of 45 days, Capomulin showed the greatest decrease in tumor volume and greatest survival rate.
+2. Infubinol, Ketapril, and Placebo showed consistent results of poor tumor response to the drugs and poor survival rates compared to Capomulin.
+3. Metastatic spread had similar increasing trends across all drugs but in the end, Capomulin was the only one (out of the four evaluated) that showed a decrease in tumor volume in 45 days. 
